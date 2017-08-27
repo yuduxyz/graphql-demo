@@ -1,0 +1,14 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "graphql": "^0.11.1"
+  }
+}
